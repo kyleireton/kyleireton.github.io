@@ -2,6 +2,7 @@ proc website;
 
 Find me at:
 
-https://www.linkedin.com/in/kyle-ireton-phd/
+[LinkedIn: kyle-ireton-phd](https://www.linkedin.com/in/kyle-ireton-phd/)
 
-https://twitter.com/Kyle_Ireton
+[Twitter: Kyle_Ireton](https://twitter.com/Kyle_Ireton)
+
